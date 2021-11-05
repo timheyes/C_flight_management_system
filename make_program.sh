@@ -1,0 +1,1 @@
+gcc syd_flight_management_system.c -o syd_flight_management_system
